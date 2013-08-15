@@ -2,6 +2,6 @@ package net.bwda;
 
 public class Test {
 	
-	private String args;
+	private String args1;
 
 }
